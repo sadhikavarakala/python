@@ -1,0 +1,6 @@
+fibonacci comparison for n = 30
+
+fibonacci30 without memoization: 832040
+time taken without memoization: 0.083645 seconds
+fibonacci30 with memoization: 832040
+time taken with memoization: 0.000012 seconds
