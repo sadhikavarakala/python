@@ -1,0 +1,64 @@
+date,amount,category,description
+03-01-2025,1600.0,Expense,petty expense
+14-03-2025,700.0,Expense,expenses
+01-04-2025,340000.0,Income,Salary credited
+04-04-2025,850.0,Expense,Rent
+10-01-2025,120.0,Expense,Coffee with friends
+15-01-2025,200.0,Expense,Grocery shopping
+25-01-2025,1500.0,Expense,Electricity bill
+28-01-2025,450.0,Expense,Internet bill
+01-02-2025,340000.0,Income,Salary credited
+05-02-2025,900.0,Expense,House rent
+12-02-2025,250.0,Expense,Restaurant dinner
+20-02-2025,600.0,Expense,Pet care
+27-02-2025,400.0,Expense,Mobile recharge
+01-03-2025,340000.0,Income,Salary credited
+03-03-2025,750.0,Expense,Rent
+09-03-2025,300.0,Expense,Streaming subscriptions
+19-03-2025,150.0,Expense,Snacks
+28-03-2025,1250.0,Expense,Shopping
+01-04-2025,340000.0,Income,Salary credited
+08-04-2025,980.0,Expense,Rent
+14-04-2025,450.0,Expense,Gym membership
+20-04-2025,220.0,Expense,Books
+27-04-2025,300.0,Expense,Taxi
+01-05-2025,340000.0,Income,Salary credited
+05-05-2025,850.0,Expense,Rent
+11-05-2025,275.0,Expense,Cinema tickets
+17-05-2025,560.0,Expense,Groceries
+25-05-2025,1600.0,Expense,Weekend trip
+01-06-2025,340000.0,Income,Salary credited
+06-06-2025,890.0,Expense,Rent
+12-06-2025,400.0,Expense,Medical check-up
+18-06-2025,310.0,Expense,Pet food
+24-06-2025,1500.0,Expense,Electronics purchase
+01-07-2025,340000.0,Income,Salary credited
+07-07-2025,920.0,Expense,Rent
+15-07-2025,220.0,Expense,Lunch outing
+21-07-2025,370.0,Expense,Mobile bill
+28-07-2025,800.0,Expense,Clothes shopping
+01-08-2025,340000.0,Income,Salary credited
+06-08-2025,940.0,Expense,Rent
+12-08-2025,280.0,Expense,Movie
+19-08-2025,450.0,Expense,Grocery
+26-08-2025,2100.0,Expense,Flight booking
+01-09-2025,340000.0,Income,Salary credited
+05-09-2025,950.0,Expense,Rent
+13-09-2025,420.0,Expense,Streaming subscriptions
+21-09-2025,600.0,Expense,Medical bill
+29-09-2025,1750.0,Expense,New furniture
+01-10-2025,340000.0,Income,Salary credited
+08-10-2025,970.0,Expense,Rent
+16-10-2025,320.0,Expense,Dining out
+23-10-2025,420.0,Expense,Books
+30-10-2025,2100.0,Expense,Travel
+01-11-2025,340000.0,Income,Salary credited
+07-11-2025,990.0,Expense,Rent
+14-11-2025,380.0,Expense,Gym subscription
+22-11-2025,270.0,Expense,Pet grooming
+28-11-2025,1900.0,Expense,Black Friday shopping
+01-12-2025,340000.0,Income,Salary credited
+06-12-2025,1000.0,Expense,Rent
+12-12-2025,400.0,Expense,Streaming subscriptions
+20-12-2025,850.0,Expense,Gifts
+27-12-2025,2500.0,Expense,New Year party
