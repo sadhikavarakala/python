@@ -22,11 +22,3 @@ Install dependencies:
 ```bash
 pip install pandas
 
----
-
-## Files
-
-- main.py – core logic to initialize and add entries
-- data_entry.py – handles user input
-- finance_data.csv – stores your data
-
