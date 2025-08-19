@@ -22,6 +22,8 @@ Install dependencies:
 ```bash
 pip install pandas
 
+---
+
 ## Files
 
 - main.py – core logic to initialize and add entries
