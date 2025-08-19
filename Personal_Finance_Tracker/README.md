@@ -20,5 +20,10 @@ All records are saved in a CSV file for easy access and analysis.
 
 Install dependencies:
 ```bash
-pip install pandas
+pip3 install pandas
+pip3 install matplotlib
+
+---
+
+
 
