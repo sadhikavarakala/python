@@ -20,11 +20,8 @@ All records are saved in a CSV file for easy access and analysis.
 
 Install dependencies:
 ```bash
-pip install pandas
+pip3 install pandas
+pip3 install matplotlib
 
-## Files
 
-- main.py – core logic to initialize and add entries
-- data_entry.py – handles user input
-- finance_data.csv – stores your data
 
